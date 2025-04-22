@@ -85,4 +85,26 @@ Designed for data enthusiasts, business analysts, and sales teams, this analysis
     
 ## Dashboard Preview
 
-![Dashboard Preview](Report_Snapshots/OverallAnalysis.png) 
+![Dashboard Preview](FruitsAndVegetablesSalesAnalysis.png) 
+
+## Project Structure 
+
+<pre style="background: #fff; padding: 0; border: none; font-family: monospace;">
+📂 Fruits-and-Vegetables-Sales-Analysis/ 
+    
+  │-- 📁 RawData/ # Contains raw and processed datasets 
+  
+        |-- Fruits And Vegetable Sales Data.xlsx
+  
+  │-- 📁 FruitsAndVegetablesSalesAnalysis.pbix/    
+
+  │-- 📁 FruitsAndVegetablesSalesAnalysis.pdf/ 
+  
+  │-- 📁 FruitsAndVegetablesSalesAnalysis.png/ # Report images
+    
+  │-- 📄 LICENSE/ # License Details/ 
+  
+  │-- 📄 README.md # Project documentation/
+
+  
+</pre>
