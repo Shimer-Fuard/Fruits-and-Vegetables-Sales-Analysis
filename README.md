@@ -107,4 +107,21 @@ Designed for data enthusiasts, business analysts, and sales teams, this analysis
   │-- 📄 README.md # Project documentation/
 
   
-</pre>
+</pre
+
+## How to Use 
+
+- Use the web [link](https://app.powerbi.com/view?r=eyJrIjoiODFlYTI4ZGQtMmYyNi00YjY2LWFhMTUtZmQ2Y2NlZmYyZjU2IiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9) to view the     report online, or download the [FruitsAndVegetablesSalesAnalysis.pbix](FruitsAndVegetablesSalesAnalysis.pbix) file to access and edit it using Power BI Desktop.
+- Use the attached [FruitsAndVegetablesSalesAnalysis.pdf](FruitsAndVegetablesSalesAnalysis.pdf) file to read a detailed overview of the report and share it easily with others
+
+## Future Improvements 
+
+- Implement sales forecasting using built-in Power BI analytics or DAX time intelligence functions.
+- Introduce customer tiers (e.g., high spenders, frequent buyers) for better targeting and marketing strategies.
+- Add cost data to calculate and visualize gross and net profit margins.
+
+## References
+
+- Data Visionary (Youtube Chanel):[Dataset/Project Inspiration](https://www.youtube.com/@DataVisionary https://drive.google.com/drive/folders/1DshD-Ud037J1ij9QPiyrLghjYRXClZGq): 
+- Power BI Documentation: [Learn More](https://learn.microsoft.com/power-bi/)
+
