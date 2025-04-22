@@ -107,7 +107,7 @@ Designed for data enthusiasts, business analysts, and sales teams, this analysis
   │-- 📄 README.md # Project documentation/
 
   
-</pre
+</pre>
 
 ## How to Use 
 
