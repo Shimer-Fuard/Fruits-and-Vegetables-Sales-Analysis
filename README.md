@@ -122,6 +122,6 @@ Designed for data enthusiasts, business analysts, and sales teams, this analysis
 
 ## References
 
-- Data Visionary (Youtube Chanel):[Dataset/Project Inspiration](https://www.youtube.com/@DataVisionary https://drive.google.com/drive/folders/1DshD-Ud037J1ij9QPiyrLghjYRXClZGq): 
+- Data Visionary (Youtube Chanel):[Dataset/Project Inspiration](https://www.youtube.com/@DataVisionary https://drive.google.com/drive/folders/1DshD-Ud037J1ij9QPiyrLghjYRXClZGq)
 - Power BI Documentation: [Learn More](https://learn.microsoft.com/power-bi/)
 
