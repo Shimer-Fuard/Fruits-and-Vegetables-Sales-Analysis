@@ -29,5 +29,60 @@ Designed for data enthusiasts, business analysts, and sales teams, this analysis
 - **File Type:** Excel
 - **File Size:**  21 KB
 - **Number of Table:** 3
-  - Transactions Table - 404 KB / Number of Fields(11) 
-- **Number of Record:** 149,116 (Number of Orders)
+  - Customer Details - Number of Fields(10)
+  - Product Details - Number of Fields(5)
+  - Sales - Number of Fields(6) 
+- **Number of Record:** 270 (Sales)
+
+## Tools & Technologies Used 
+
+- Power BI (Data Modeling/Data Visualization)  
+- Power Query (Data Extracting/Data Cleaning)
+
+## Project Workflow 
+
+1.**Data Collection & Import**
+- Imported the dataset into Power BI Desktop for transformation and visualization from Excel Workbook.
+
+2.**Data Cleaning & Transformation**
+- Removed duplicates and empty rows.
+- Applied meaningful naming conventions to columns and tables
+
+3.**Data Modeling**
+- Designed a star schema with
+  - Fact Table: Sales Table
+  - Dimension Tables: Customer Details Table , Products Details Table
+  - Defined proper relationships (one-to-many) between dimension and fact tables.
+  - Implemented calculated columns
+
+4.**DAX Measures Creation**
+  - Built custom DAX measures for,
+    - Net Sales
+    - Gross Sales
+    - Total Quantity Sold
+    - Total Discount
+    - Total Transactions
+
+5.**Dashboard Design**
+- Create an interactive and intuitive dashboard including following components in power BI,
+    - KPI Cards: Net Sales, Gross Sales, Quantity Sold, Tran
+    - sactions, Total Discount
+    - Bar/Column Charts:Sales by Gender,Sales by Product Category,Quantity by Product Name
+    - Scatter Chart: Discount vs Quantity Sold by Category
+    - Table: Customer-wise summary with Net Sales & Quantity
+- Design Practices,
+    - Consistent color coding (e.g., green for vegetables, orange for fruits).
+    - Clean layout with proper spacing and alignment.
+
+6.**Insight Extraction & Presentation**
+- Identified key business insights
+    - Female customers contributed to ~60% of sales.
+    - Vegetables slightly outsold fruits in value.
+    - Top-selling cities: Brussels, Amsterdam, Antwerp.
+    - Best-selling products: Asparagus, Carrot, Rhubarb.
+    - Loyal/high-value customers: Amina Loo, Coralie Brent, Theresa Limande.
+- Delivered the report in PBIX, PDF, and Power BI Service formats for accessibility.
+    
+## Dashboard Preview
+
+![Dashboard Preview](Report_Snapshots/OverallAnalysis.png) 
