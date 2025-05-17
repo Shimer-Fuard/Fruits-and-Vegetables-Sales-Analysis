@@ -1,5 +1,9 @@
 # Fruits and Vegetables Sales Analysis
 
+## Report Preview
+
+![Dashboard Preview](FruitsAndVegetablesSalesAnalysis.png) 
+
 ## Live Report
 **View the live interactive Power BI report here:**
 [Click to Open Report](https://app.powerbi.com/view?r=eyJrIjoiODFlYTI4ZGQtMmYyNi00YjY2LWFhMTUtZmQ2Y2NlZmYyZjU2IiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9
@@ -83,10 +87,6 @@ Designed for data enthusiasts, business analysts, and sales teams, this analysis
     - Loyal/high-value customers: Amina Loo, Coralie Brent, Theresa Limande.
 - Delivered the report in PBIX, PDF, and Power BI Service formats for accessibility.
     
-## Dashboard Preview
-
-![Dashboard Preview](FruitsAndVegetablesSalesAnalysis.png) 
-
 ## Project Structure 
 
 <pre style="background: #fff; padding: 0; border: none; font-family: monospace;">
